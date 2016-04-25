@@ -1,10 +1,10 @@
 body
 {
-	background-color: rgb(200,200,200);
+	background-color: yellow;
 }
 .Bwun 
 {
-	background-color: rgb(100,100,100);
+	background-color: orange;
 	font-family: 'Comic Sans MS';
 	text-align: center;
 }
