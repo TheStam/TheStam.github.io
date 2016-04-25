@@ -1,5 +1,10 @@
+body
+{
+	background-color: rgb(200,200,200);
+}
 .Bwun 
 {
+	background-color: rgb(100,100,100);
 	font-family: 'Comic Sans MS';
 	text-align: center;
 }
