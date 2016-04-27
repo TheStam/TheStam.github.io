@@ -9,17 +9,14 @@
 
 	<div class ="Bwun">
 		<h1>The Most Disgusting Site You Could Ever Come Across</h1>
-<<<<<<< HEAD
 		<p>Hey there, buddy.</p>
 		<button type="button">Look, I still dont even do anything.</button>
-=======
-<<<<<<< HEAD
-		<p>Welcome to day!</p>
-=======
-		<p>Welocme To Night.</p>
->>>>>>> refs/remotes/origin/master
-		<button type="button">Look, I dont even do anything.</button>
->>>>>>> origin/master
+	</div>
+
+	<div class ="Btoo">
+		<h2>I actully want to die.</h2>
+		<a href="http://drhelmspickett.com/wp-content/uploads/2016/02/street-sign.jpg">This is the onlt reason I have not killed myself.</a>
+		
 	</div>
 	
 </body>
