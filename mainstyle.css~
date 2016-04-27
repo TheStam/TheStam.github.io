@@ -1,26 +1,16 @@
 body
 {
-<<<<<<< HEAD
 	background-color: Gainsboro;
 }
 .Bwun 
 {
 	background-color: brown;
-=======
-<<<<<<< HEAD
-	background-color: yellow;
+	font-family: 'Comic Sans MS';
+	text-align: center;
 }
-.Bwun 
+.Btoo 
 {
-	background-color: orange;
-=======
-	background-color: Blue;
-}
-.Bwun 
-{
-	background-color: Darkblue;
->>>>>>> refs/remotes/origin/master
->>>>>>> origin/master
+	background-color: red;
 	font-family: 'Comic Sans MS';
 	text-align: center;
 }
