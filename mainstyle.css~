@@ -1,10 +1,18 @@
 body
 {
+<<<<<<< HEAD
+	background-color: yellow;
+}
+.Bwun 
+{
+	background-color: orange;
+=======
 	background-color: Blue;
 }
 .Bwun 
 {
 	background-color: Darkblue;
+>>>>>>> refs/remotes/origin/master
 	font-family: 'Comic Sans MS';
 	text-align: center;
 }
