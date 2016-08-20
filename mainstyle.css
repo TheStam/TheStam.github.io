@@ -1,21 +1,18 @@
 body
 {
 	background-color: Black;
-}
-.Bwun 
-{
-	background-color: black;
 	font-family: 'Comic Sans MS';
 	text-align: center;
 	h1 {
 	color:white;
+	font-size: 60%; line-height:60%;
+	}
+	p {
+	color:white;	
+	}
 }
-}
-.Btoo 
 
 
-.button 
-{
-    position: absolute;
-    top: 50%;
-}
+
+
+
