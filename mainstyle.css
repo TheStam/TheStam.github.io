@@ -1,25 +1,18 @@
 body
 {
-	background-color: Gainsboro;
+	background-color: Black;
 }
 .Bwun 
 {
-	background-color: brown;
+	background-color: black;
 	font-family: 'Comic Sans MS';
 	text-align: center;
+	h1 {
+	color:white;
+}
 }
 .Btoo 
-{
-	background-color: darkcyan;
-	font-family: 'Comic Sans MS';
-	text-align: center;
-}
-.Btre
-{
-background-color: green;
-font-family: 'Comic Sans MS';
-text-align: center;
-}
+
 
 .button 
 {
